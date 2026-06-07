@@ -1,0 +1,10 @@
+# Core
+torch>=1.10
+torchvision>=0.11   # uses models.resnet50(pretrained=True)
+numpy>=1.20
+scikit-learn>=0.24
+
+# Plotting / utilities (imported by main_new.py)
+matplotlib>=3.3
+pillow>=8.0
+ipython>=7.0
